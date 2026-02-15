@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ミドリイロ",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-15T07:58:28.446331Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミドリイロ",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_ミドリイロ_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミドリイロ",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_ミドリイロ_GReeeeN.txt"
+    }
+  ]
+}
